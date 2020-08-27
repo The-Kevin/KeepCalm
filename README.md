@@ -5,7 +5,7 @@
 <h2 align="center">Este é um projeto pessoal com intuito de mostrar um pouco do meu trabalho!</h2>
 
 <p align="center">
-    API criada para anotações, acionaremos a um pequeno banco de dados o nome de quem criou a anotação, a anotação em si e o dia que foi adicionada aquela anotação. 
+    API criada para anotações, acionaremos a um pequeno banco de dados o nome de quem criou a anotação, a anotação em si e o dia que foi adicionada. 
     cada anotação tem um ID único que é incrementado automaticamente assim que a postagem foi inserida no banco de dados!
 </p>
 
