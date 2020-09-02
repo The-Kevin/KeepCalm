@@ -11,12 +11,12 @@ routes.get('/', (request, response) => {
     response.send('API INICIADA COM SUCESSO!')
 })
 
-routes.get('/posts',ListPosts);
+routes.get('/postsList',ListPosts);
 
-routes.post('/posts', CreatePost);
+routes.post('/postsCreate', CreatePost);
 
-routes.put('/posts', PutPost);
+routes.put('/postsPut', PutPost);
 
-routes.delete('/posts', DeletePost);
+routes.delete('/postsPost', DeletePost);
 
 export default routes;

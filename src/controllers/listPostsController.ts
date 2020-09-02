@@ -8,7 +8,7 @@ const ListPosts = async (request: Request, response: Response) => {
     try{
          response.json(posts);
     }catch (error){
-        response.send('ocorreu um erro ao buscar as postagens!')
+        response.send('ocorreu um erro ao buscar as postagens.')
         console.log(error);
     }
 };

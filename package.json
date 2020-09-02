@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node --ignore node_modules src/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "knex:migrate": "knex migrate:latest --knexfile knexfile.ts migrate:latest"
+    "knex:migrate": "knex migrate:latest --knexfile knexfile.ts"
   },
   "author": "Kevin Almeida",
   "license": "ISC",

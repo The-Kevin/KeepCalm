@@ -19,10 +19,12 @@ const CreatePost = async (request: Request, response: Response) => {
        console.log(error);
    }
 
-   return response.json({
+    response.json({
        autor,
        texto
    });
+   
+   response.send('Novo post criado com sucesso!')
    
 }
 
