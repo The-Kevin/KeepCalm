@@ -5,7 +5,7 @@
 <h2 align="center">Este é um projeto pessoal com intuito de mostrar um pouco do meu trabalho!</h2>
 
 <p align="center">
-    API criada para anotações, acionaremos a um pequeno banco de dados o nome de quem criou a anotação, a anotação em si e o dia que foi adicionada aquela anotação
+    API criada para anotações, acionaremos a um pequeno banco de dados o nome de quem criou a anotação, a anotação em si e o dia que foi adicionada. 
     cada anotação tem um ID único que é incrementado automaticamente assim que a postagem foi inserida no banco de dados!
 </p>
 
@@ -28,7 +28,7 @@
     Novas features poderão ser adicionadas posteriormente, deixo em aberto para qualquer pessoa possa modificá-lo com pull-request!
 </p>
 
-#dependencias
+# dependencias
 
 <p align="center">
     Para executar esta aplicação você precisará ter instalado em sua maquina as seguintes dependências
@@ -44,7 +44,7 @@
 
 </p>
 
-#instalação
+# instalação
 
 # Clone este repositorio
 $ git clone https://github.com/The-Kevin/KeepCalm
@@ -71,7 +71,7 @@ $ npm start
 # O servidor iniciará na porta:8080 - acesse <http://localhost:8080></http:>
 
 
-#autor
+# autor 
 
 <h2 align="center">
     API criada por Kevin Almeida em um dia de tedio :)
